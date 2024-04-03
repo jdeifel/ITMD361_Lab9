@@ -1,8 +1,8 @@
 function init(){
-  var button = document.getElementById('thebutton');
+  var button = document.getElementById('button');
+  var input = document.getElementById('input')
   
-
-  
+  console.log(button, input)
   
   
   }
